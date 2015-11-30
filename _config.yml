@@ -2,6 +2,7 @@ name: Quaesitus
 favicon: null
 layout_spectrum: 0.26299443026073277
 typography_spectrum: 0.4751122109591961
+title: Quaesitus
 cta:
   domain: null
   bucket: null
