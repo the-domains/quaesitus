@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T11:33:13.016Z'
-dateModified: '2015-12-03T11:31:32.221Z'
-title: etymology
+datePublished: '2015-12-03T14:07:55.412Z'
+dateModified: '2015-12-03T14:07:49.668Z'
+title: 'Quaesitus: «sought out»'
 author: []
+sourcePath: _posts/2015-12-03-etymology.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-etymology.md
-published: true
 url: etymology/index.html
 _type: Article
 
