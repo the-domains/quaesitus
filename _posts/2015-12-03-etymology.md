@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T14:07:55.412Z'
-dateModified: '2015-12-03T14:07:49.668Z'
+datePublished: '2015-12-06T21:33:36.434Z'
+dateModified: '2015-12-03T14:07:55.412Z'
 title: 'Quaesitus: «sought out»'
 author: []
 sourcePath: _posts/2015-12-03-etymology.md
