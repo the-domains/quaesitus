@@ -2,21 +2,28 @@
     <channel>
         <title><![CDATA[Quaesitus]]></title>
         <description><![CDATA[Quaesitus]]></description>
-        <link>http://quaesit.us/</link>
+        <link>https://thegrid.ai/quaesitus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 21:33:45 GMT</lastBuildDate>
-        <atom:link href="http://quaesit.us/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 12:32:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quaesitus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quaesitus]]></title>
-            <description><![CDATA[<article><h1>Quaesitus</h1><p>that which is always being sought seems as though it were never found</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35abbb0c-af80-40da-9424-6d6ef3f9d5fc.jpg"></article>]]></description>
-            <link>http://quaesit.us/quaesitus/index.html</link>
+            <description><![CDATA[<article><h1>Quaesitus</h1><p>that which is always being sought seems as though it were never found</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c229624631c1beba93d5580e5a8db0c73fc35cf2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/quaesitus/quaesitus/index.html</link>
             <guid isPermaLink="false">8a4b21e1-b98c-4811-a66b-dbb2fba432e4</guid>
             <pubDate>Mon, 30 Nov 2015 13:31:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e46d6cec-1e75-4824-a7ea-a7bd1f17db0d.png">]]></description>
+            <link>https://thegrid.ai/quaesitus/9701c03c-c300-4ede-99ca-bbd1a51f606b/index.html</link>
+            <guid isPermaLink="false">9701c03c-c300-4ede-99ca-bbd1a51f606b</guid>
+            <pubDate>Tue, 29 Dec 2015 12:32:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Quaesitus: «sought out»]]></title>
-            <description><![CDATA[<article><h1>Quaesitus: «sought out»</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1500dee-6d9f-41a8-b840-009783853f5f.jpg"></article>]]></description>
-            <link>http://quaesit.us/etymology/index.html</link>
+            <description><![CDATA[<article><h1>Quaesitus: «sought out»</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f65f03818357d6587dc7a3828d6d4e5bf2ad80f4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/quaesitus/etymology/index.html</link>
             <guid isPermaLink="false">10a338d7-4cf7-47b2-b48c-ccdee586932d</guid>
             <pubDate>Sun, 06 Dec 2015 21:33:36 GMT</pubDate>
         </item>
