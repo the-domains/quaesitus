@@ -4,7 +4,7 @@
         <description><![CDATA[Quaesitus]]></description>
         <link>https://thegrid.ai/quaesitus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 22:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 09:57:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quaesitus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quaesitus]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/quaesitus/quaesitus/index.html</link>
             <guid isPermaLink="false">8a4b21e1-b98c-4811-a66b-dbb2fba432e4</guid>
             <pubDate>Tue, 29 Dec 2015 22:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Quaesitus aids the underserved nitch of scholars with goals to stay in the library and academics who need assistance with university tasks. Quaesitus is scalable, but in order maintain its local relevance it is only available to the pontifical milieu at this time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecd3877cea51a800c2cb0f6679c92a74b80897a7.png"></article>]]></description>
+            <link>http://quaesit.us/about/</link>
+            <guid isPermaLink="false">b10afd61-710d-4230-a8a6-abcfa1937807</guid>
+            <pubDate>Mon, 04 Jan 2016 09:57:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
