@@ -17,7 +17,7 @@ keywords:
   - airbnb
   - '2015-03-13'
 description: 'Sharing economy (also known as shareconomy or collaborative consumption) refers to peer-to-peer-based sharing of access to goods and services (coordinated through community-based online services). Sharing economy can take a variety of forms, including using information technology to provide individuals, corporations, non-profits and governments with information that enables the optimization of resources through the redistribution, sharing and reuse of excess capacity in goods and services.'
-datePublished: '2016-01-22T08:22:15.260Z'
+datePublished: '2016-01-22T08:22:15.307Z'
 dateModified: '2016-01-22T08:21:57.577Z'
 author: []
 related: []
